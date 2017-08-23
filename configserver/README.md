@@ -1,2 +1,2 @@
 # SpringCloudTutorial
-visit www.andrew-deng.com see more info
+This code demostrate how to setup spring cloud config server.
